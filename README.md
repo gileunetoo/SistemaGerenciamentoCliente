@@ -16,3 +16,7 @@ banco postgres
     telefone VARCHAR(20) NOT NULL,
     coordenada POINT
 );
+
+
+link video google drive
+          https://drive.google.com/file/d/1lmX1-GV_duTMYwqLSjCC7rQY5fSTwZSU/view?usp=drive_link
